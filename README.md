@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57759154/140659027-396b5850-35dd-408e-8a57-51adbcfd9bdc.png" />
+  <img src="https://user-images.githubusercontent.com/57759154/162638159-53282ce7-70bf-40bf-8409-5d285f1f696d.png" width="350" height="150"/>
  </p>
 
-# Theory-of-Algorithms
+# Theory of Algorithms
 
 **Name:** Krystian Opryszek
 
@@ -19,11 +19,11 @@ This repository contains lab work and assessment for Theory of Algorithms module
 
 - **post-correspondence.ipynb**
 
-  The post-correspondence notebook contains the definition and explanation of the Post Correspondence Problem [1] and Bounded Post Correspondence Problem. A Python function to solve the Bounded Post Correspondence Problem and the explanation of what an undecidable problem is in computability theory.
+  The post-correspondence notebook contains the definition and explanation of the [Post Correspondence Problem](https://en.wikipedia.org/wiki/Post_correspondence_problem) and Bounded Post Correspondence Problem. A Python function to solve the Bounded Post Correspondence Problem. The function takes two lists of strings and returns True or False depending on if they correspond or not. This notebook also contains an explanation of what an undecidable problem is in computability theory.
 
 - **countdown.ipynb**
 
-  The countdown.ipynb notebook contains an overview and explanation of the Countdown Numbers Game [2] and the discussion of the complexity of the Countdown Numbers Game. A python function to solve a Countdown Numbers Game. Finally an explanation of the functional aspects of the code.
+  The countdown notebook contains an overview and explanation of the [Countdown Numbers Game](https://en.wikipedia.org/wiki/Countdown_(game_show)). This notebook also contains the discussion of the complexity of the Countdown Numbers Game. A python function to solve a Countdown Numbers Game, written in a [functional programming style](https://docs.python.org/3/howto/functional.html). The function takes a list of six numbers and a target number and returns a method to calculate the target from the numbers. Finally an explanation of the functional aspects of the code.
   
 ## How to run the notebooks
 
@@ -41,7 +41,7 @@ $ juyter notebook
 
 ## Technologies used
 
-Some of the technologies used in this assessement as follow:
+Some of the technologies used in this assessment are as follow:
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> **Python**
   
@@ -49,7 +49,7 @@ Some of the technologies used in this assessement as follow:
   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> **Jupyter Project** 
   
-  Open-source software, open standards, and Interactive computing services for dozens of programming languages
+  Open-source software, open standards, and Interactive computing services for dozens of programming languages.
   
 - <img src="https://searchvectorlogo.com/wp-content/uploads/2020/10/anaconda-inc-logo-vector.png" width="50" height="50"/> **Anaconda** 
 
@@ -57,6 +57,8 @@ Some of the technologies used in this assessement as follow:
 
 ## References
 
-[1] https://en.wikipedia.org/wiki/Post_correspondence_problem
+Here is a list of references I have used to complete this assessment.
 
-[2] https://en.wikipedia.org/wiki/Countdown_(game_show)
+1. [*Post correspondence problem*, <br> https://en.wikipedia.org/wiki/Post_correspondence_problem](https://en.wikipedia.org/wiki/Post_correspondence_problem)
+1. [*Countdown Numbers Game*, <br> https://en.wikipedia.org/wiki/Countdown_(game_show)](https://en.wikipedia.org/wiki/Countdown_(game_show))
+3. [*Functional Programming HOWTO*, <br> https://docs.python.org/3/howto/functional.html](https://docs.python.org/3/howto/functional.html)
