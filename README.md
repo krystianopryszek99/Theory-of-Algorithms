@@ -11,6 +11,7 @@
 ## Table Of Content
 - [Overview](#Overview)
 - [How to run the notebooks](#How-to-run-the-notebooks)
+- [Requirements](#Requirements)
 - [Technologies used](#Technologies-used)
 - [References](#References)
 
@@ -27,6 +28,8 @@ This repository contains lab work and assessment for Theory of Algorithms module
   
 ## How to run the notebooks
 
+*You may have to install anaconda to run with jupyter notebook, look the [Requirements](#Requirements)*
+
 1) Clone this repository onto your machine:
 ```
 $ git clone https://github.com/krystianopryszek99/Theory-of-Algorithms
@@ -38,6 +41,9 @@ $ git clone https://github.com/krystianopryszek99/Theory-of-Algorithms
 ```
 $ juyter notebook 
 ```
+## Requirements
+
+In order to run these notebooks with jupyter notebook, you may be required to have Python and anaconda installed on your machine. Anaconda is the recommended solution for installing both Python and Jupyter. You can download the following: [Python](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/). You can follow installation steps from [Jupter Documentation](https://test-jupyter.readthedocs.io/en/latest/install.html) to install Jupyter Notebook. More on running the notebook on [Jupter Documentation](https://test-jupyter.readthedocs.io/en/latest/running.html#running).
 
 ## Technologies used
 
