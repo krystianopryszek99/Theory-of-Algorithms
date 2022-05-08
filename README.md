@@ -26,7 +26,24 @@ This repository contains lab work and assessment for Theory of Algorithms module
 
   The countdown notebook contains an overview and explanation of the [Countdown Numbers Game](https://en.wikipedia.org/wiki/Countdown_(game_show)). This notebook also contains the discussion of the complexity of the Countdown Numbers Game. A python function to solve a Countdown Numbers Game, written in a [functional programming style](https://docs.python.org/3/howto/functional.html). The function takes a list of six numbers and a target number and returns a method to calculate the target from the numbers. Finally an explanation of the functional aspects of the code.
   
+- **Labs**
+
+  All lab work can be found in the `Labs` folder. It contains all the lab work throughout the course of this module.
+  
 ## How to run the notebooks
+
+To run the notebooks follow the below instructions:
+
+### Quick steps
+
+You can view notebooks in static form by clicking the following image:
+
+
+| post-correspondence notebook| [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/krystianopryszek99/Theory-of-Algorithms/blob/main/post_correspondence.ipynb)| 
+| --------------- | --------------- | 
+| **countdown notebook** |  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/krystianopryszek99/Theory-of-Algorithms/blob/main/countdown.ipynb)|
+
+### Run using jupyter notebook 
 
 *You may have to install anaconda to run with jupyter notebook, look the [Requirements](#Requirements)*
 
@@ -41,9 +58,10 @@ $ git clone https://github.com/krystianopryszek99/Theory-of-Algorithms
 ```
 $ juyter notebook 
 ```
+
 ## Requirements
 
-In order to run these notebooks with jupyter notebook, you may be required to have Python and anaconda installed on your machine. Anaconda is the recommended solution for installing both Python and Jupyter. You can download the following: [Python](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/). You can follow installation steps from [Jupter Documentation](https://test-jupyter.readthedocs.io/en/latest/install.html) to install Jupyter Notebook. More on running the notebook on [Jupter Documentation](https://test-jupyter.readthedocs.io/en/latest/running.html#running).
+In order to run these notebooks with jupyter notebook, you may be required to have Python and anaconda installed on your machine. Anaconda is the recommended solution for installing both Python and Jupyter. You can download the following: [Python](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/). You can follow installation steps from [Jupyter Documentation](https://test-jupyter.readthedocs.io/en/latest/install.html) to install Jupyter Notebook. More on running the notebook on [Jupyter Documentation](https://test-jupyter.readthedocs.io/en/latest/running.html#running).
 
 ## Technologies used
 
